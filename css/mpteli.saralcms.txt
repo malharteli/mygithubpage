@@ -1,0 +1,8 @@
+mpteli.saralcms.com
+Login instructions:
+Do NOT need to log into Admin
+FTP Client: Filezilla
+server: saralcms.com
+user: pteli
+pass: nGRxe5Cf
+port: 21
